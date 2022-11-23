@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1005" height="1399.5" viewBox="0 0 1005 1399.5">
+  <g id="Grupo_900712" data-name="Grupo 900712" transform="translate(-180 -7786.239)">
+    <rect id="Rectángulo_298106" data-name="Rectángulo 298106" width="4" height="25" transform="translate(180 7786.239)" fill="#3bc192"/>
+    <text id="Tabla_1." data-name="Tabla 1." transform="translate(195 7803.239)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Tabla 1.</tspan></text>
+    <text id="Ejemplo_lista_de_chequeo" data-name="Ejemplo lista de chequeo" transform="translate(253 7804.239)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Ejemplo lista de chequeo</tspan></text>
+    <g id="Grupo_894092" data-name="Grupo 894092">
+      <rect id="Rectángulo_298101" data-name="Rectángulo 298101" width="767" height="97" transform="translate(418 8514.239)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_298102" data-name="Rectángulo 298102" width="767" height="97" transform="translate(418 8126.239)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_298103" data-name="Rectángulo 298103" width="767" height="97" transform="translate(418 8223.239)" fill="#fff"/>
+      <rect id="Rectángulo_298104" data-name="Rectángulo 298104" width="767" height="97" transform="translate(418 8320.239)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_298105" data-name="Rectángulo 298105" width="767" height="97" transform="translate(418 8417.239)" fill="#fff"/>
+      <text id="_2" data-name="2" transform="translate(416 8346.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">2</tspan></text>
+      <text id="_1" data-name="1" transform="translate(448 8261.239)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">1</tspan></text>
+      <path id="Trazado_608119" data-name="Trazado 608119" d="M0,0H767V60.672H0Z" transform="translate(418 7885.563)" fill="#63c8af"/>
+      <text id="Lista_de_chequeo_accesibilidad_sistema_información" data-name="Lista de chequeo accesibilidad sistema información" transform="translate(801 7922.239)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-210.538" y="0">Lista de chequeo accesibilidad sistema información</tspan></text>
+      <text id="_3" data-name="3" transform="translate(416 8456.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">3</tspan></text>
+      <text id="_4" data-name="4" transform="translate(416 8556.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">4</tspan></text>
+      <text id="SI" transform="translate(970 8162.239)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="14.078" y="17">SI</tspan></text>
+      <text id="NO" transform="translate(1090 8162.239)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="9.797" y="17">NO</tspan></text>
+      <rect id="Rectángulo_298107" data-name="Rectángulo 298107" width="767" height="97" transform="translate(418 8704.239)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_298108" data-name="Rectángulo 298108" width="767" height="97" transform="translate(418 8607.239)" fill="#fff"/>
+      <text id="_5" data-name="5" transform="translate(416 8646.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">5</tspan></text>
+      <text id="_6" data-name="6" transform="translate(416 8746.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">6</tspan></text>
+      <rect id="Rectángulo_298109" data-name="Rectángulo 298109" width="767" height="97" transform="translate(418 8801.239)" fill="#fff"/>
+      <text id="_7" data-name="7" transform="translate(416 8840.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">7</tspan></text>
+      <path id="Trazado_622700" data-name="Trazado 622700" d="M0,0H767V60.672H0Z" transform="translate(418 7945.563)" fill="#e4f5f1"/>
+      <text id="Área:" transform="translate(478 7982.239)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Área:</tspan></text>
+      <path id="Trazado_622701" data-name="Trazado 622701" d="M0,0H767V60.672H0Z" transform="translate(418 8005.563)" fill="#cfeee7"/>
+      <text id="Nombres_y_apellidos:" data-name="Nombres y apellidos:" transform="translate(478 8042.239)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Nombres y apellidos:</tspan></text>
+      <path id="Trazado_622702" data-name="Trazado 622702" d="M0,0H767V60.672H0Z" transform="translate(418 8065.563)" fill="#e4f5f1"/>
+      <text id="Documento:" transform="translate(478 8102.239)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Documento:</tspan></text>
+      <text id="Colores_y_contraste_indicados." data-name="Colores y contraste indicados." transform="translate(535 8261.239)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Colores y contraste indicados.</tspan></text>
+      <text id="Lectura_en_pantalla." data-name="Lectura en pantalla." transform="translate(535 8346.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Lectura en pantalla.</tspan></text>
+      <text id="Facilidad_de_información." data-name="Facilidad de información." transform="translate(535 8456.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Facilidad de información.</tspan></text>
+      <text id="Menú_de_navegación_claro." data-name="Menú de navegación claro." transform="translate(535 8556.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Menú de navegación claro.</tspan></text>
+      <text id="Se_realizaron_pruebas_de_usabilidad." data-name="Se realizaron pruebas de usabilidad." transform="translate(535 8646.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se realizaron pruebas de usabilidad.</tspan></text>
+      <text id="Se_realizaron_pruebas_con_usuarios_virtual_y_física." data-name="Se realizaron pruebas con usuarios, virtual y física." transform="translate(535 8746.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se realizaron pruebas con usuarios, virtual y física.</tspan></text>
+      <text id="Se_encontraron_inconvenientes_en_la_página." data-name="Se encontraron inconvenientes en la página." transform="translate(535 8840.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se encontraron inconvenientes en la página.</tspan></text>
+      <rect id="Rectángulo_300619" data-name="Rectángulo 300619" width="767" height="97" transform="translate(418 8898.239)" fill="#f6f6f6"/>
+      <text id="_8" data-name="8" transform="translate(416 8940.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">8</tspan></text>
+      <rect id="Rectángulo_300620" data-name="Rectángulo 300620" width="767" height="97" transform="translate(418 9088.239)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_300621" data-name="Rectángulo 300621" width="767" height="97" transform="translate(418 8991.239)" fill="#fff"/>
+      <text id="_9" data-name="9" transform="translate(416 9030.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-4.492" y="17">9</tspan></text>
+      <text id="_10" data-name="10" transform="translate(416 9130.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-8.984" y="17">10</tspan></text>
+      <text id="Se_encontraron_inconvenientes_en_el_menú_principal." data-name="Se encontraron inconvenientes en el menú principal." transform="translate(535 8940.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se encontraron inconvenientes en el menú principal.</tspan></text>
+      <text id="Dificultad_para_encontrar_la_información." data-name="Dificultad para encontrar la información." transform="translate(535 9030.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Dificultad para encontrar la información.</tspan></text>
+      <text id="Se_exceden_los_menús_en_niveles." data-name="Se exceden los menús en niveles." transform="translate(535 9130.413)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Se exceden los menús en niveles.</tspan></text>
+      <path id="Trazado_622703" data-name="Trazado 622703" d="M0,0V1059" transform="translate(512 8126.239)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_236" data-name="Línea 236" y2="1059" transform="translate(928 8126.239)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_237" data-name="Línea 237" y2="1059" transform="translate(1058 8126.239)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
