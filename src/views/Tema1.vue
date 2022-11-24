@@ -9,11 +9,11 @@
 
     .row.justify-content-center.mt-5
       .col-md-11
-        .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-acento-botones.p-5.p-sm-4.p-md-5
           .bloque-texto-g__img.bloque-img-left(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1.svg')})`}"
           )                             
-          .bloque-texto-g__texto.bloque-text-rigth
+          .bloque-texto-g__texto.bloque-text-rigth.margenes-primer-bloque
             p Comencemos diciendo que la implantación de #[i software] es un proceso riguroso que debe realizarse conforme a los estándares de la calidad del #[i software] establecidos por diferentes organizaciones.
 
     p.mt-5.m-5 Entre ellas se encuentran:
@@ -22,11 +22,15 @@
         figure
           img(src='@/assets/curso/temas/tema1/img2.png', alt='alt')  
 
-    .row.justify-content-center.mt-5
-      .col-md-11
-        figure
-          img(src='@/assets/curso/temas/tema1/img1.png', alt='alt')  
-    
+    .bg_bloque.row.justify-content-center.mt-5
+      .row.justify-content-center
+        .col.col-margenes-1
+          .cajon.color-secundario.color-secundario-cajon-azul.p-3
+            p.text-white Estos estándares permiten dar eficiencia y eficacia a los sistemas que se desarrollan, a las actividades que se realizan en pro de las necesidades y requerimientos del cliente, acompañadas de una buena construcción, mantenimiento y adaptabilidad de cada proyecto estrictamente avalado.
+      .row.justify-content-center
+        .col.col-margenes 
+          p Todos esos estándares disponen de normas que rigen los modelos de sistemas a desarrollar, pero no definen con exactitud las funcionalidades y estructuras que tiene un software en particular; a eso se suman las condiciones y requisitos solicitados por el cliente, además de las fases y actividades que deben aplicarse en la puesta en marcha de cada proceso, en el desarrollo, pruebas y mantenimiento, lo que se conoce como implantación de software. Esto acompañado de la infraestructura tecnológica de la compañía donde se realiza la instalación y publicación de la arquitectura en la que se enfatiza la plataforma de desarrollo
+
     .row.justify-content-center.mt-5
       .col-md-7
         p Como se mencionó anteriormente, la implantación de #[i software] es una serie de procesos que se llevan a cabo por parte de los entes encargados de la puesta en marcha de un sistema de información adquirido por determinada compañía. Estos procesos determinan el nivel de operación que se requiere para mantener la estabilidad y eficiencia del sistema en sus primeras fases de funcionamiento, ya que la empresa que lo adquiere demanda actividades y subprocesos que deben realizar las partes relacionadas, con la finalidad de definir cada tarea conforme avance el desarrollo en las áreas individuales. Todo esto con el objetivo de aplicar las modificaciones, implementaciones, instalaciones y pruebas requeridas, buscando mejoras a nivel de operatividad, de administración y solventar los errores y necesidades contemplados en la firma del contrato.

@@ -49,7 +49,7 @@
 
         .bloque-texto-b.color-bloque-texto-amarillo.mt-5
           .bloque-texto-b__texto
-            p El estándar IEEE STD 1063-2001 establece los parámetros que hacen parte de los documentos diseñados para los usuarios de #[i software], la organización y la forma en que se muestra la información, la cual debe ser clara y entendible por todos los operarios que manipulen el sistema a implementar.
+            p El estándar IEEE STD 1063-2001 establece los parámetros que hacen parte de los documentos diseñados para los usuarios de #[span.text-italica software], la organización y la forma en que se muestra la información, la cual debe ser clara y entendible por todos los operarios que manipulen el sistema a implementar.
            
     p.mt-5.mb-5  Los siguientes datos son necesarios para los documentos de usuario:
 
@@ -138,12 +138,8 @@
               p Detallar datos de contactos y sobre todo, dónde se pueda encontrar información adicional sobre el documento o paso a paso, con datos relevantes que no estén incluidos en la guía del usuario.
           div(titulo="Glosario").p-2
             .row.justify-content-center
-              p Se deben incluir los términos relevantes que se abordan en el desarrollo del documento con su respectiva definición en el contexto en el cual se abordan, para facilitar a los lectores el entendimiento de secciones puntuales en el transcurso de la lectura.
-                            
-                            
-                            
-                                           
-      .col-md-5
+              p Se deben incluir los términos relevantes que se abordan en el desarrollo del documento con su respectiva definición en el contexto en el cual se abordan, para facilitar a los lectores el entendimiento de secciones puntuales en el transcurso de la lectura.                                   
+      .col-md-5.mt-5
         figure
           img(src="@/assets/curso/temas/tema2/img12.svg", alt="alt")      
 </template>

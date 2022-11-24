@@ -79,9 +79,9 @@
       .col-md-11
         .bloque-texto-g.color-bloque-texto-verde.p-5.p-sm-4.p-md-5                     
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img6.svg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img6.png')})`}"
           )                             
-          .bloque-texto-g__texto-azul.p-5
+          .bloque-texto-g__texto-azul-3.p-5
             p.text-bold.text-white Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
     
 </template>
