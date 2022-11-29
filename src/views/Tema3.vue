@@ -25,7 +25,7 @@
           .col-lg-7.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             .number(data-number="01")
               h4.ps-4 Relaciones humanas
-              p.ps-4.mb-0 Debe hacer un análisis de los datos que obtenga de los LEADS, sobre el interés que han mostrado por los productos y servicios ofertados, cuál es el tipo de empresa y que necesidades presenta. Con estos datos puede determinar el cliente puede convertirse en un cliente fiel y determinar el trato que debe tener, es decir realizar una clasificación del cliente exponencial a futuro y con esto, deberá disponer de la persona de ventas adecuada que logre efectivamente cerrar la venta con LEAD. Esta clasificación de LEADS, le permite, contactar en el momento adecuado, escoger su personal acertado, convencer a su nuevo cliente más fácilmente y conseguir clientes fieles de manera óptima.
+              p.ps-4.mb-0 Implican mejor comunicación entre las partes relacionadas, mejor entendimiento y afianzamiento en un lenguaje natural por la expresión de cada individuo, el fortalecimiento del recurso humano y la espontaneidad para que surjan los procesos que se lleven a cabo en una compañía; tener personas capaces, idóneas y líderes aptos para organizar cualquier ambiente que afiancen la gestión humana, hace que las organizaciones sean más competitivas en todos los ámbitos en donde se encuentre su mercado.
           .col-6.col-lg-5
             figure
               img(src='@/assets/curso/temas/tema3/img2.png')

@@ -97,19 +97,21 @@
     .row
       .col-lg-8.order-2.order-lg-1
         TabsA.color-acento-botones.mb-5        
-          .tarjeta.clr-paleLigthGreen.p-4(titulo="Lista de chequeo apertura de datos para los sistemas de información")
+          .tarjeta.clr-paleLigthGreen.p-4(titulo="Lista de chequeo apertura de datos<br/>para los sistemas de información")
             p En ella se incluyen las necesidades o requerimientos funcionales y no funcionales inmersos en la plataforma que se implementa, en la cual se manifiesta la información requerida. Este proceso indica si el sistema cumple con las especificaciones para las cuales es desarrollado.
           .tarjeta.clr-paleLigthGreen.p-4(titulo="Lista de chequeo de accesibilidad")
             p Cada aplicativo que se desarrolla e implementa cuenta con una estructura de accesibilidad, la cual permite al usuario ingresar a los módulos que le den acceso; para este caso, esta lista de chequeo se realiza con el fin de validar si el sistema cumple con las características de accesibilidad idóneas e indicadas en el proceso de desarrollo. 
           .tarjeta.clr-paleLigthGreen.p-4(titulo="Lista de chequeo de guía de estilo")
             p Los estilos son una parte fundamental para las aplicaciones web y móviles, por esta razón se realiza lista de chequeo para la validación de los estilos que se llevan a cabo en la plataforma, siendo una funcionalidad que debe cumplir con los lineamientos estructurados en esta #[i checklist].
-          .tarjeta.clr-paleLigthGreen.p-4(titulo="Lista de chequeo de característica de arquitectura de información")
+          .tarjeta.clr-paleLigthGreen.p-4(titulo="Lista de chequeo de característica<br/> de arquitectura de información")
             p Se define como lista de chequeo para la validación de la arquitectura escogida en la cual se desarrolla la plataforma tecnológica, por lo tanto, la característica principal es establecer si con este modelado el sistema cumple o no con lo requerido.
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/tema1/img9.png", alt="alt", style="width:450px;").m-auto
 
     p.mt-5.mb-5 A continuación, presentamos un modelo de formato de lista de chequeo realizado para un proceso de accesibilidad en la implementación del sistema de información. Se debe tener en cuenta que los formatos pueden variar dependiendo del área donde se aplique el proceso e iteración de la lista.
+
+    p.bg4.ml.text-figuras #[span.text-bold Tabla 1.] Ejemplo lista de chequeo
     .row.justify-content-center.mt-5
       .col-md-9
         .tabla-b.color-acento-botones
