@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Implantación del <i>software</i>',
     descripcionCurso:
-      'En este componente formativo se abordarán temas referentes a la interfaz gráfica de usuario y experiencia de usuario, temas importantes en el desarrollo de plataformas tecnológicas, puesto que relacionan directamente al usuario con la vista y navegabilidad de las aplicaciones, por lo tanto, debe ir encaminadas a enriquecer las necesidades y facilidades de uso y agilidad en el comportamiento de los sistemas.',
+      'En este componente formativo, se abordan temas referentes a la interfaz gráfica de usuario y experiencia de usuario, material importante en el desarrollo de plataformas tecnológicas, puesto que relacionan directamente al usuario con la vista y navegabilidad de las aplicaciones; es por esto que deben ir encaminadas a enriquecer las necesidades y facilidades de uso y agilidad en el comportamiento de los sistemas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

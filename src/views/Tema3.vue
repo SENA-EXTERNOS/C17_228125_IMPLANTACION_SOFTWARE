@@ -8,16 +8,16 @@
       h1 Estrategias de enseñanza aprendizaje
 
     .row.justify-content-center.mt-5          
-      .col-md-7
+      .col-md-7(data-aos="fade-left")
           p La metodología utilizada para la entrega de proyectos de #[i software] se basa en la toma de decisiones que impliquen al usuario final del sistema; esto involucra procedimientos, destrezas, estrategias para que acojan y desarrollen las habilidades frente a una plataforma tecnológica distinta, novedosa, con módulos y esquemas desarrollados para agilizar las actividades y mejorar los niveles de automatización en las áreas de trabajo, aumentar la productividad y garantizar el tiempo de respuesta con el cliente final. Para entender este concepto se puede hacer una analogía con el proceso de enseñanza aprendizaje de los estudiantes de una institución educativa en la cual el docente utiliza los métodos que lleven a la práctica docente al interior del aula, es decir, debe conocer a cabalidad todo el contenido de la asignatura que dicta y sobre todo, tener una preparación en pedagogía para que los estudiantes entiendan las indicaciones dadas y de esa manera, puedan sentir respaldo y entendimiento sobre lo propuesto por el docente.
-      .col-md-5
+      .col-md-5(data-aos="fade-down-right")
         figure
           img(src="@/assets/curso/temas/tema3/img1.png", alt="alt") 
-      .col-md-9
+      .col-md-9(data-aos="flip-up")
         .cajon.color-acento-botones.color-secundario-cajon-verde.p-3.mt-5               
           P En este mismo sentido, se pueden medir las técnicas usadas por los desarrolladores de #[i software] para inculcar las destrezas en el uso de aplicaciones de cualquier índole, ya sean de escritorio, web, embebidas para móviles, híbridas, entre otros, que conllevan una experiencia de usuario UX que implica facilidad de uso, accesibilidad y conveniencia.
 
-    p.mt-5.mb-5 Existen tres ítems que se deben tener en cuenta en el momento de la metodología cuando se entrega un proyecto de software:
+    h5.mt-5.my-5 Existen tres ítems que se deben tener en cuenta en el momento de definir la metodología, cuando se entrega un proyecto de #[i software]:
 
     .bg_slyder.px-5.py-3.mb-5
       SlyderA(tipo="b")
@@ -25,7 +25,7 @@
           .col-lg-7.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             .number(data-number="01")
               h4.ps-4 Relaciones humanas
-              p.ps-4.mb-0 Implican mejor comunicación entre las partes relacionadas, mejor entendimiento y afianzamiento en un lenguaje natural por la expresión de cada individuo, el fortalecimiento del recurso humano y la espontaneidad para que surjan los procesos que se lleven a cabo en una compañía; tener personas capaces, idóneas y líderes aptos para organizar cualquier ambiente que afiancen la gestión humana, hace que las organizaciones sean más competitivas en todos los ámbitos en donde se encuentre su mercado.
+              p.ps-4.mb-0 Implican mejor comunicación entre las partes relacionadas, mejor entendimiento y afianzamiento en un lenguaje natural por la expresión de cada individuo, el fortalecimiento del recurso humano y la espontaneidad para que surjan los procesos que se lleven a cabo en una compañía; tener personas capaces, idóneas y líderes aptos para organizar cualquier ambiente que asegure la gestión humana, hace que las organizaciones sean más competitivas en todos los ámbitos en donde se encuentre su mercado.
           .col-6.col-lg-5
             figure
               img(src='@/assets/curso/temas/tema3/img2.png')
@@ -37,7 +37,7 @@
           .col-lg-7.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             .number(data-number="02")
               h4.ps-4 Técnicas de comunicación oral
-              p.ps-4.mb-0 La comunicación oral requiere ciertos estímulos para facilitar el proceso al tratar con otra u otras personas temas de interés; se debe tener en cuenta la sencillez en lo expresado, no se debe presumir del conocimiento y condiciones de saberlo todo y más aún en el ámbito del desarrollo de software, en el cual siempre hay mejoras y avances; se debe tener en cuenta minimizar la cantidad de palabras expuestas, sobre todo tecnicismos que confundan las demás personas; se debe hablar de manera directa, breve y lógica, tener una tonalidad agradable y expresiva y tener en cuenta que la contraparte, es decir, el que escucha es una persona y necesita ser reconocido como tal.
+              p.ps-4.mb-0 La comunicación oral requiere ciertos estímulos para facilitar el proceso al tratar con otra u otras personas, temas de interés; se debe tener en cuenta la sencillez en lo expresado, no se debe presumir del conocimiento y condiciones de saberlo todo y más aún, en el ámbito del desarrollo de #[i software], en el cual siempre hay mejoras y avances; se debe tener en cuenta minimizar la cantidad de palabras expuestas, sobre todo tecnicismos que confundan a las demás personas; se debe hablar de manera directa, breve y lógica, tener una tonalidad agradable y expresiva y tener en cuenta que la contraparte, es decir, el que escucha, es una persona y necesita ser reconocida como tal.
           .col-6.col-lg-5
             figure
               img(src='@/assets/curso/temas/tema3/img3.png') 
@@ -52,9 +52,9 @@
               img(src='@/assets/curso/temas/tema3/img4.png')
           .col-md-12
             .cajon.color-acento-contenido.color-secundario-cajon-amarillo.p-4.mt-5
-              p Existen muchas herramientas que permiten la creación de materiales didácticos con la finalidad de fortalecer el aprendizaje de cualquier persona en algún ámbito: a partir de las tecnologías de la información y comunicación, TIC, se profundiza la curva del conocimiento, pues involucran la tecnología como medio para obtener información; en este contexto el Internet, que ha avanzado a grandes rasgos y cambia los aspectos de los seres humanos al igual que las compañías han modificado su visión y se han encaminados en este aspecto para ser más competitivas y tener un recurso humano valorado.
+              p Existen muchas herramientas que permiten la creación de materiales didácticos, con la finalidad de fortalecer el aprendizaje de cualquier persona en algún ámbito y, a partir de las Tecnologías de la Información y las Comunicaciones, TIC, se profundiza la curva del conocimiento, pues involucran la tecnología como medio para obtener información; en este contexto, el Internet, ha avanzado a grandes rasgos y cambia los aspectos de los seres humanos, al igual que lo hacen las compañías que han modificado su visión y se han encaminado hacia este aspecto, para ser más competitivas y tener un recurso humano valorado.
 
-    p.mt-5.mb-5 Finalicemos con las siguientes técnicas de comunicación oral:
+    h5.mt-5.mb-5 Finalicemos con las siguientes técnicas de comunicación oral:
 
     .row.justify-content-center
       .col-md-12
