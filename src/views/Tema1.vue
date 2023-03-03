@@ -86,7 +86,7 @@
     h2.titulo-segundo.color-acento-contenido.mt-5 Listas de chequeo (#[i checklist])
     .row.justify-content-center.mt-5
       .col-md-7
-        p(data-aos="fade-left") Por otra parte, tenemos las listas de chequeo, documentos especializados destinados a la verificación de procesos repetitivos y que deben ser auditados para establecer su estado. Un ejemplo claro de lista de chequeo es el que hacen todos los pilotos y copilotos antes de realizar un vuelo; verifican, a través de una lista de chequeo o checklist que todo se encuentre en orden y tenga un buen funcionamiento; no pueden despegar el avión si no han validado las condiciones idóneas para realizar el viaje.
+        p(data-aos="fade-left") Por otra parte, tenemos las listas de chequeo, documentos especializados destinados a la verificación de procesos repetitivos y que deben ser auditados para establecer su estado. Un ejemplo claro de lista de chequeo es el que hacen todos los pilotos y copilotos antes de realizar un vuelo; verifican, a través de una lista de chequeo o #[i checklist] que todo se encuentre en orden y tenga un buen funcionamiento; no pueden despegar el avión si no han validado las condiciones idóneas para realizar el viaje.
         .cajon.color-acento-botones.color-secundario-cajon-verde.p-3.mt-5(data-aos="fade-left")
           p Por lo tanto, estas tareas repetitivas ayudan a mantener la estructura de los sistemas de información, toda vez que se deben realizar ajustes indicados en caso que falte una tarea o un ítem perteneciente a la lista.
       .col-md-5(data-aos="fade-right")

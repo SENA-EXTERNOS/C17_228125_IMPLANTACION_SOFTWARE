@@ -17,7 +17,7 @@
         .cajon.color-acento-botones.color-secundario-cajon-verde.p-3.mt-5               
           P En este mismo sentido, se pueden medir las técnicas usadas por los desarrolladores de #[i software] para inculcar las destrezas en el uso de aplicaciones de cualquier índole, ya sean de escritorio, web, embebidas para móviles, híbridas, entre otros, que conllevan una experiencia de usuario UX que implica facilidad de uso, accesibilidad y conveniencia.
 
-    h5.mt-5.my-5 Existen tres ítems que se deben tener en cuenta en el momento de definir la metodología, cuando se entrega un proyecto de #[i software]:
+    h5.mt-5.my-5 Existen tres ítems que se deben tener en cuenta en el momento de definir la metodología cuando se entrega un proyecto de #[i software]:
 
     .bg_slyder.px-5.py-3.mb-5
       SlyderA(tipo="b")
