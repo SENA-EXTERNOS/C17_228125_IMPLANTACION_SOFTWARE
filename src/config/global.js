@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Implantación del <i>software</i>',
     descripcionCurso:
-      'En este componente formativo, se abordan temas referentes a la interfaz gráfica de usuario y experiencia de usuario, material importante en el desarrollo de plataformas tecnológicas, puesto que relacionan directamente al usuario con la vista y navegabilidad de las aplicaciones; es por esto que deben ir encaminadas a enriquecer las necesidades y facilidades de uso y agilidad en el comportamiento de los sistemas.',
+      'En este componente formativo se abordarán temas referentes a la interfaz gráfica de usuario y experiencia de usuario, temas importantes en el desarrollo de plataformas tecnológicas, puesto que relacionan directamente al usuario con la vista y navegabilidad de las aplicaciones, por lo tanto, debe ir encaminadas a enriquecer las necesidades y facilidades de uso y agilidad en el comportamiento de los sistemas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -100,14 +100,14 @@ export default {
     {
       tema: 'Implantación del <i>software</i> y listas de chequeo',
       referencia:
-        'Muñoz, J. (s.f.). <i>Implantación de un sistema de información</i> (video). YouTube. ',
+        'Jhonatan Alejandro Muñoz Serna. (18 de febrero de 2017). <i>Implantación de un sistema de información</i> (video). YouTube. ',
       tipo: 'video',
       link: 'https://www.youtube.com/watch?v=T2ZbvQTOFas ',
     },
     {
       tema: 'Implantación del <i>software</i> y listas de chequeo',
       referencia:
-        'Camacho, R. (2020). <i>Verificación frente a validación en software integrado</i>. Parasoft. ',
+        'Camacho, R. (2020, 20 de octubre). <i>Verificación frente a validación en software integrado.</i> Parasoft.',
       tipo: 'Artículo',
       link:
         'https://es.parasoft.com/blog/verification-vs-validation-in-embedded-software/ ',
@@ -115,14 +115,14 @@ export default {
     {
       tema: 'Implantación del <i>software</i> y listas de chequeo',
       referencia:
-        'Chacón, B. (s.f.). <i>Pruebas de implementación del software</i> (video). YouTube.',
+        'Brenda Chacón. (9 de abril de 2021). <i>Pruebas de implementación del software</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=K0mw7JWy9fE ',
     },
     {
       tema: 'Manuales de usuario de los sistemas de información',
       referencia:
-        'Choquehuanca, J. (2020). <i>Diferencias entre Manual de Usuario y Manual Técnico</i> (video). YouTube. ',
+        'Jose Domingo Choquehuanca. (11 de julio de 2020). <i>Diferencias entre Manual de Usuario y Manual Técnico</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=JHiaGw8ziBc ',
     },
