@@ -52,7 +52,7 @@
               img(src='@/assets/curso/temas/tema3/img4.png')
           .col-md-12
             .cajon.color-acento-contenido.color-secundario-cajon-amarillo.p-4.mt-5
-              p Existen muchas herramientas que permiten la creación de materiales didácticos, con la finalidad de fortalecer el aprendizaje de cualquier persona en algún ámbito y, a partir de las Tecnologías de la Información y las Comunicaciones, TIC, se profundiza la curva del conocimiento, pues involucran la tecnología como medio para obtener información; en este contexto, el Internet, ha avanzado a grandes rasgos y cambia los aspectos de los seres humanos, al igual que lo hacen las compañías que han modificado su visión y se han encaminado hacia este aspecto, para ser más competitivas y tener un recurso humano valorado.
+              p Existen muchas herramientas que permiten la creación de materiales didácticos, con la finalidad de fortalecer el aprendizaje de cualquier persona en algún ámbito y, a partir de las Tecnologías de la Información y las Comunicaciones, (TIC), se profundiza la curva del conocimiento, pues involucran la tecnología como medio para obtener información; en este contexto, el Internet, ha avanzado a grandes rasgos y cambia los aspectos de los seres humanos, al igual que lo hacen las compañías que han modificado su visión y se han encaminado hacia este aspecto, para ser más competitivas y tener un recurso humano valorado.
 
     h5.mt-5.mb-5 Finalicemos con las siguientes técnicas de comunicación oral:
 
