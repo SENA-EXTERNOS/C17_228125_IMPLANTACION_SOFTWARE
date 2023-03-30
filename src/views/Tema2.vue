@@ -18,7 +18,7 @@
     p.mt-5.mb-5 Para ampliar la información sobre los manuales de usuario de los sistemas de información, lo invitamos a ver el siguiente video.
     figure.mt-5
       .video(data-aos="zoom-out")
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/O0HB2NJSo0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.mt-5
       .col-md-.mt-5
