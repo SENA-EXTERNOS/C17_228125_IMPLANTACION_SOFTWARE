@@ -107,14 +107,6 @@ export default {
     {
       tema: 'Implantación del <i>software</i> y listas de chequeo',
       referencia:
-        'Camacho, R. (2020, 20 de octubre). <i>Verificación frente a validación en software integrado.</i> Parasoft.',
-      tipo: 'Artículo',
-      link:
-        'https://es.parasoft.com/blog/verification-vs-validation-in-embedded-software/ ',
-    },
-    {
-      tema: 'Implantación del <i>software</i> y listas de chequeo',
-      referencia:
         'Brenda Chacón. (9 de abril de 2021). <i>Pruebas de implementación del software</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=K0mw7JWy9fE ',
@@ -180,12 +172,6 @@ export default {
     },
   ],
   referencias: [
-    {
-      referencia:
-        'Camacho, R. (2020).<i>Verificación frente a validación en software integrado</i>. Parasoft. ',
-      link:
-        'https://es.parasoft.com/blog/verification-vs-validation-in-embedded-software/',
-    },
     {
       referencia:
         'DNP – Departamento Nacional de Planeación. (2020). <i>Guía para la elaboración del manual de usuario de los sistemas de información.</i>',
